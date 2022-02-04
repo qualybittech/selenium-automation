@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Guru 99 Test-Suite" >
+   <test name="Create savings account" >
+       <classes> 
+          <class name="tests.test1" />
+          <class name="tests.test2" />
+       </classes>
+   </test>
+ </suite>
